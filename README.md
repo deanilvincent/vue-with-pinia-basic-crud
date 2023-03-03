@@ -3,7 +3,7 @@
 ## What is Pinia?
 Pinia is a store library for Vue. This store library allows the application to store, share and modify states within the Vue.JS application. One of the advantages of Pinia over Vuex is that, Pinia is more intuitive and easier to learn and implement. These store libraries have their own pros and cons but it's still your option whether to use Vuex or Pinia. Visit [Pinia](https://pinia.vuejs.org/)'s official website.
 
-For this README.md, we're using the get method but you can explore the other methods like the Create, Update and Delete.
+For this README.md, we're using the get method but you can explore the other methods like the Create, Update and Delete within the solution.
 
 ## Setup and configuration
 
